@@ -1,0 +1,17 @@
+﻿Ship_Mode,Region,Total_Orders,Avg_Discount,Total_Sales,Total_Profit,Profit_Margin_Pct
+Standard Class,East,1673,0.14,405321.83,57023.21,14.07
+Standard Class,West,1882,0.11,406752.8,54760.97,13.46
+Standard Class,South,974,0.16,227613.55,26952.23,11.84
+Standard Class,Central,1439,0.24,318527.56,25352.38,7.96
+Second Class,West,621,0.1,145339.43,22877.36,15.74
+First Class,West,515,0.12,129761.89,22638.17,17.45
+First Class,East,490,0.16,113587.05,15732.01,13.85
+Second Class,South,329,0.11,93758.61,14667.15,15.64
+Second Class,East,530,0.13,116545.52,10787.29,9.26
+Second Class,Central,465,0.22,103550.01,9114.83,8.8
+Same Day,West,185,0.1,43603.71,8141.95,18.67
+Same Day,East,155,0.17,43326.83,7980.27,18.42
+First Class,South,234,0.15,49332.57,6892.39,13.97
+First Class,Central,299,0.27,58746.92,3707.27,6.31
+Same Day,Central,120,0.22,20415.41,1531.88,7.5
+Same Day,South,83,0.14,21017.17,-1762.33,-8.39

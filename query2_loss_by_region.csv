@@ -1,0 +1,13 @@
+﻿Region,Segment,Total_Orders,Total_Sales,Total_Profit,Avg_Discount
+Central,Consumer,421,86252.42,-34630.46,0.54
+East,Consumer,283,87874.29,-27951.65,0.44
+East,Corporate,178,49351.44,-15844.24,0.45
+Central,Corporate,198,36219.39,-14275.4,0.57
+South,Consumer,128,34842.56,-12468.25,0.47
+West,Consumer,171,38226.98,-9895.35,0.37
+South,Corporate,87,23646.05,-9412.83,0.51
+West,Home Office,54,14054.67,-7570.87,0.4
+Central,Home Office,122,18810.85,-7409.02,0.54
+East,Home Office,92,23638.28,-5794.72,0.45
+South,Home Office,44,33146.57,-5623.75,0.51
+West,Corporate,93,22643.65,-5254.74,0.37
